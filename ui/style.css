@@ -1,4 +1,6 @@
 body {
+    padding: 400;
+    padding-top: 0;
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
